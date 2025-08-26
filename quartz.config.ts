@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+  pageTitle: "✏️ TGJ2O S2",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,31 +23,31 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Helvetica, Arial",
+        body: "Helvetica, Arial",
         code: "IBM Plex Mono",
       },
-      colors: {
+                        colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#f4f5f7",
+          lightgray: "#dcdfe4",
+          gray: "#a7adb7",
+          darkgray: "#3d4350",
+          dark: "#1b1f29",
+          secondary: "#00a3a3",
+          tertiary: "#ffb703",
+          highlight: "rgba(0, 163, 163, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#0f1116",
+          lightgray: "#262a33",
+          gray: "#545c6b",
+          darkgray: "#cfd5e0",
+          dark: "#e9ecf2",
+          secondary: "#4fd6d6",
+          tertiary: "#ffd272",
+          highlight: "rgba(0, 163, 163, 0.15)",
           textHighlight: "#b3aa0288",
         },
       },
@@ -57,7 +57,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["git", "frontmatter", "filesystem"],
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -88,7 +88,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+//      Plugin.CustomOgImages(),
     ],
   },
 }
