@@ -1,6 +1,6 @@
 ---
 created: 2025-09-17T07:00:00.000-0400
-draft: false
+draft: true
 notes: If students finish early, direct them toward the original project prompt at
   the end of this page or allow exploration of other Photoshop tutorial categories.
 tags: null
@@ -33,11 +33,11 @@ Same process as before:
 
 ---
 
-## Step 2: Complete These Beginner Tutorial Categories
+## Step 2: Complete your chosen 5 of these Beginner Tutorial Categories
 
 You may complete them in any order. As you finish a tutorial, **take a quick screenshot** of the finished result or the final step as proof of completion.
 
-📁 Save all your screenshots in a folder titled `Photoshop Tutorials 2`.
+📁 Save all your screenshots in a folder titled `Photoshop Tutorials 2`. And submit them on Notion
 
 ---
 

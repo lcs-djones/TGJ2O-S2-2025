@@ -4,4 +4,4 @@ draft: false
 title: Grove Time
 ---
 
-This is the shared file **Grove Time.md**.
+Grove Times are Thursdays and Fridays 1:00-1:30 in Room 6.

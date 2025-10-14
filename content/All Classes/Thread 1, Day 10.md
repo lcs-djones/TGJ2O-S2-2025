@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 enableToc: false
 excludeBacklinks: true
 notes: start of 3D
@@ -8,10 +8,10 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-1. Setup: [[Account Creation]]
+1. Setup: [[Creating your Tinkercad Account]]
 2. Tutorial: [[Tinkercad Tutorials]]
 	- Learn the basics of this 3D modeling application.
-3. Task: [[Making a Keychain]]
+3. Task: [[Tinkercad/Making a Keychain]]
 	- Create your first product using 3D modeling techniques.
 
 ## Things to do before our next class
