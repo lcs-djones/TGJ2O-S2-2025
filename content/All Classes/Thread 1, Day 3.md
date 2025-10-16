@@ -9,7 +9,8 @@ transcludeTitleSize: h2
 ## Agenda
 1. Task: [[Photoshop Quote Task]]
 	1. Complete the quote task that you begun last class
-2. Tutorials: If you are done early, you can start [[Photoshop Tutorials part 2]]
+2. Assignment: [[Photoshop choices]] is your next task after completing [[Photoshop Quote Task]]
+3. If you are done early, you can start [[Photoshop Tutorials part 2]]
 
 ## Things to do before our next class
-- [ ] Be sure you have [[First Notion Entry]] to introduce yourself and identify your areas of interest.
+- [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today including a detailed description on the tools and techniques you used, as well as the peer feedback you recieved.
