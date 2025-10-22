@@ -5,6 +5,6 @@ title: Grade 10 Comm Tech, Section 2
 ---
 
 # Most Recent Class
-![[Thread 1, Day 4]]
+![[Thread 1, Day 5]]
 ![[Grove Time]]
 ![[Key Links]]
