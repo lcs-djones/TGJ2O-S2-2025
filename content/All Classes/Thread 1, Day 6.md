@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 enableToc: false
 excludeBacklinks: true
 notes: start of Premiere

@@ -4,4 +4,4 @@ draft: false
 title: Grove Time
 ---
 
-Grove Times are Thursdays and Fridays 1:00-1:30 in Room 6.
+Grove Times are throughout the week by appointment. Message on Edsby or via Email.
