@@ -1,6 +1,6 @@
 ---
 created: 2024-10-17T07:00:00.000-0400
-draft: true
+draft: false
 ---
 
 ![[Pasted image 20250924194043.png]]
