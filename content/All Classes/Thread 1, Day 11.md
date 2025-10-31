@@ -7,7 +7,9 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-For your End of Mod project, you will have a choice between 2 projects:
+1. Complete the [[End of Mod 1 Self Assessment]]
+
+2. For your End of Mod project, you will have a choice between 2 projects:
 Option A: [[Photoshop Magazine Project]]
 Option B: [[Chess Set]]
 

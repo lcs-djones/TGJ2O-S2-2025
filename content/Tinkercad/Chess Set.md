@@ -1,6 +1,6 @@
 ---
 created: 2024-10-17T07:00:00.000-0400
-draft: true
+draft: false
 ---
 
 ---
@@ -29,7 +29,7 @@ You will design and 3D print chess pieces, each reflecting a unique theme of you
 ![[Pasted image 20250930211045.png]]
 
 ## Sketch and Design
-Draw out your 6 chess pieces (Pawn, Rook, Knight, Bishop, Queen & King) on graph paper. This will act as your initial design.  The pieces should be easily recognisable as their appropriate piece (example: There should be no confusion on if a piece is a Pawn or a Rook). These sketches should be included in your Notion post as part of your planning process.
+Draw out your 2 chosen chess pieces (Pawn, Rook, Knight, Bishop, Queen & King) on graph paper. This will act as your initial design.  The pieces should be easily recognisable as their appropriate piece (example: There should be no confusion on if a piece is a Pawn or a Rook). These sketches should be included in your Notion post as part of your planning process.
 
 >[!tip] Remember to keep in mind the principles of 3D modeling when sketching and designing.
 
@@ -73,3 +73,22 @@ When you are done one of your pieces, receive one more piece of kind, specific a
 
 
 Reprints will only happen in certain circumstances, so make sure that you get it right!
+
+## Reflection Questions  
+
+When you are finished your 3D Chess sets, copy and paste the following questions into your Notion entry and answer them in complete sentences:  
+
+---
+
+### Reflection Questions
+
+1. Which piece are you most proud of, and why? What specific design or modelling choices made it successful?  
+2. Which piece was the most challenging to create, and what strategies or techniques did you use to overcome those challenges?  
+3. What design or technical skills improved the most for you during this project?  
+4. Describe one problem you encountered during the modelling or printing process and how you solved it.  
+5. What advice would you give to a future student starting this same project?  
+
+---
+
+✅ **Reminder:**  
+Be honest, detailed, and specific in your responses. Include screenshots or photos of your work if relevant to your answers.
