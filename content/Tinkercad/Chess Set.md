@@ -92,3 +92,27 @@ When you are finished your 3D Chess sets, copy and paste the following questions
 
 ✅ **Reminder:**  
 Be honest, detailed, and specific in your responses. Include screenshots or photos of your work if relevant to your answers.
+
+# ♟️ 3D Chess Set Project Rubric
+
+| **Category** | **1️⃣ Beginning** <br> (Limited completion or detail) | **2️⃣ Developing** <br> (Some completion, missing elements) | **3️⃣ Proficient** <br> (Complete and meets expectations) | **4️⃣ Accomplished** <br> (Exceptional effort and detail) |
+|---------------|:--:|:--:|:--:|:--:|
+| **Design & Creativity** | [ ] | [ ] | [ ] | [ ] |
+| *Theme clarity, uniqueness of each chess piece, overall creativity* | | | | |
+| **Completion of Work** | [ ] | [ ] | [ ] | [ ] |
+| *All pieces finished with base, body, and head; attention to detail* | | | | |
+| **Planning & Process Documentation** | [ ] | [ ] | [ ] | [ ] |
+| *Sketches, iteration evidence, Notion documentation, screenshots* | | | | |
+| **Peer Feedback & Iteration** | [ ] | [ ] | [ ] | [ ] |
+| *Kind, specific, and helpful feedback shown and applied in redesigns* | | | | |
+| **Printability & Technical Execution** | [ ] | [ ] | [ ] | [ ] |
+| *Pieces realistically printable, appropriate scale, and structurally sound* | | | | |
+| **File Submission Standards** | [ ] | [ ] | [ ] | [ ] |
+| *STL file, screenshot, and video flythrough correctly submitted* | | | | |
+| **Reflection & Communication** | [ ] | [ ] | [ ] | [ ] |
+| *Complete answers, detail about learning, challenges, and improvements* | | | | |
+
+---
+
+✅ **Overall Focus:**  
+Completion, documentation, and correct submission of all required components (STL + screenshot + video flythrough) form the majority of the assessment. Creativity and printability add depth and polish.
