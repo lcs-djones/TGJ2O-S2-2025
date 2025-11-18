@@ -1,10 +1,10 @@
 ---
 enableToc: false
 excludeBacklinks: true
-title: Grade 10 Comm Tech, Section 2
+title: Green Industries
 ---
 
 # Most Recent Class
-![[Thread 1, Day 12]]
+![[Green Industries]]
 ![[Grove Time]]
 ![[Key Links]]
