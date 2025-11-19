@@ -14,5 +14,6 @@ transcludeTitleSize: h2
 3. Task: [[Tinkercad/Making a Keychain]]
 	- Create your first product using 3D modeling techniques.
 4. Submission: [[Tinkercad/Reviewing your Design|Reviewing your Design]]
+5. Submission: [[Submitting your Tinkercad files]]
 ## Things to do before our next class
 - [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today including a detailed description on the tools and techniques you used, as well as the peer feedback you recieved.
