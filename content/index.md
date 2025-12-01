@@ -1,7 +1,7 @@
 ---
 enableToc: false
 excludeBacklinks: true
-title: Green Industries
+title: Communications Technology Section 2
 ---
 
 # Most Recent Class
