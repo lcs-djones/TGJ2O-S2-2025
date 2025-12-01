@@ -5,6 +5,6 @@ title: Green Industries
 ---
 
 # Most Recent Class
-![[Green Industries]]
+![[Mod 2, Day 1]]
 ![[Grove Time]]
 ![[Key Links]]
