@@ -5,6 +5,6 @@ title: Communications Technology Section 2
 ---
 
 # Most Recent Class
-![[Mod 2, Day 2]]
+![[Mod 4, Day 3|Mod 4, Day 3]]
 ![[Grove Time]]
 ![[Key Links]]
