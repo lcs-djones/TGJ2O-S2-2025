@@ -14,22 +14,5 @@ transcludeTitleSize: h2
 4. Project: [[Project Accountability]]
 5. Project:[[Project Planning Guide| Begin a new chosen Open Project]]
 
-Class Schedule
-Class 1: Feb 3
-Class 2: Feb 4
-Class 3: Feb 6
-Class 4: Feb 10
-Class 5: Feb 11
-Class 6: Feb 12
-Class 7: Feb 17
-Class 8: Feb 19
-Class 9: Feb 20
-Class 10: Feb 24
-Class 11: Feb 26
-Class 12: Feb 27
-Class 13: Feb 28
-Class 14: Mar 3
-Class 15: Mar 4
-
 ## Things to do before our next class
 - [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today including a detailed description on the tools and techniques you used, as well as the peer feedback you recieved.
